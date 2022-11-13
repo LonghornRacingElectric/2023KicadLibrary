@@ -1627,6 +1627,7 @@
     )
   )
 
+
   (junction (at 232.41 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 004e5238-1df3-4772-b227-9b08db5eb84f)
   )
@@ -3690,7 +3691,7 @@
     (property "Value" "DT1446-04TS-7" (id 1) (at 149.3012 126.1622 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Global Libraries:SOT95P280X100-6N" (id 2) (at 119.38 115.57 0)
+    (property "Footprint" "SOT95P280X100-6N" (id 2) (at 119.38 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/DT1446-04TS.pdf" (id 3) (at 121.92 115.57 0)
