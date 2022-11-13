@@ -1238,7 +1238,7 @@
     (uuid 3be2f64a-643b-4527-aaf5-307341a81097)
     (property "Reference" "IC1" (id 0) (at 105.41 63.5 0))
     (property "Value" "LM5155DSSR" (id 1) (at 105.41 66.04 0))
-    (property "Footprint" "SON50P200X300X80-13N-D" (id 2) (at 128.27 77.47 0)
+    (property "Footprint" "Global Libraries:SON50P200X300X80-13N-D" (id 2) (at 128.27 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/LM5155" (id 3) (at 128.27 80.01 0)
@@ -1667,7 +1667,7 @@
     (property "Value" "CSD18537NQ5A" (id 1) (at 169.6212 86.9566 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "CSD19531Q5AT" (id 2) (at 168.91 76.2 0)
+    (property "Footprint" "Global Libraries:CSD19531Q5AT" (id 2) (at 168.91 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/csd18537nq5a" (id 3) (at 166.37 76.2 0)
@@ -1942,13 +1942,13 @@
       (reference "D1") (unit 1) (value "STPS20M100SG-TR") (footprint "D2PAK_STM")
     )
     (path "/3be2f64a-643b-4527-aaf5-307341a81097"
-      (reference "IC1") (unit 1) (value "LM5155DSSR") (footprint "SON50P200X300X80-13N-D")
+      (reference "IC1") (unit 1) (value "LM5155DSSR") (footprint "Global Libraries:SON50P200X300X80-13N-D")
     )
     (path "/465cb822-cddf-441d-8f53-8ae0b192b81a"
       (reference "L1") (unit 1) (value "7448700015") (footprint "")
     )
     (path "/b6e6a3f1-e3fb-4eaa-bf70-4dd3052bf5ca"
-      (reference "Q1") (unit 1) (value "CSD18537NQ5A") (footprint "CSD19531Q5AT")
+      (reference "Q1") (unit 1) (value "CSD18537NQ5A") (footprint "Global Libraries:CSD19531Q5AT")
     )
     (path "/0bb5cd34-d493-45c4-917f-8c4bd795b455"
       (reference "R1") (unit 1) (value "6k8") (footprint "")
