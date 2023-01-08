@@ -247,7 +247,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 590360a2-f43f-40fc-ae47-c319a22b5e27)
   )
-  (hierarchical_label "ADC_1-" (shape input) (at 55.88 120.65 180)
+  (hierarchical_label "ADC_4-" (shape input) (at 55.88 120.65 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5917b6f2-b15d-49ad-b36c-1997a14c3f7c)
   )
@@ -964,7 +964,7 @@
       (reference "U4") (unit 1) (value "MCP3428") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/5c8ddbe1-ac78-4123-8303-aa9fe8c4bedc/78ad0e2b-bf27-4e8d-80ce-de87ee03e83f"
-      (reference "U6") (unit 1) (value "LSF0204QPWRQ1") (footprint "SOP65P640X120-14N")
+      (reference "U6") (unit 1) (value "LSF0204QPWRQ1") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
     (path "/25d42329-b9eb-4e22-9f58-7e61d7436278/00000000-0000-0000-0000-000063457466"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
